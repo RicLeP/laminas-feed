@@ -32,9 +32,9 @@
         "php": "~8.0.0 || ~8.1.0 || ~8.2.0",
         "ext-dom": "*",
         "ext-libxml": "*",
-        "laminas/laminas-escaper": "^2.9",
-        "laminas/laminas-servicemanager": "^3.14.0",
-        "laminas/laminas-stdlib": "^3.6"
+        "laminas/laminas-escaper": "^2.21",
+        "laminas/laminas-servicemanager": "^3.21",
+        "laminas/laminas-stdlib": "^3.17"
     },
     "require-dev": {
         "laminas/laminas-cache": "^2.13.2 || ^3.6",
